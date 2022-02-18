@@ -2,9 +2,11 @@
 Safely and Easily Access Nested Object Property Values
 
 ## why obtener
-```js
 "obtener" is Spanish for "to obtain".
-```
+
+
+## demo
+http://danieljdufour.com/obtener/
 
 ## install
 ```html
