@@ -1,12 +1,12 @@
 # obtener
 Safely and Easily Access Nested Object Property Values
 
-# why obtener
+## why obtener
 ```js
 "obtener" is Spanish for "to obtain".
 ```
 
-# install
+## install
 ```html
 <script src="https://unpkg.com/obtener"></script>
 ```
@@ -15,7 +15,7 @@ or
 import { get } from "obtener";
 ```
 
-# basic usage
+## basic usage
 ```html
 data = {
   "agency": "GSA",
@@ -33,15 +33,7 @@ data = {
       },
       "tags": [
         "GSA"
-      ],
-      "repositoryURL": "https://github.com/GSA/usasearch",
-      "homepageURL": "https://search.gov",
-      "contact": {
-        "email": "gsa-github.support@gsa.gov"
-      },
-      "laborHours": 0,
-      "vcs": "git",
-      "organization": "GSA"
+      ]
     },
     // ...
   }
