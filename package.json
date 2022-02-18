@@ -1,6 +1,6 @@
 {
   "name": "obtener",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Safely and Easily Obtain Nested Object Property Values",
   "main": "obtener.js",
   "files": [
