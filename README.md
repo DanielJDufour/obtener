@@ -81,7 +81,7 @@ get(data, 'releases.tags', { sort: true });
 ["508", "API", "Bing", "DigitalGovSearch", ...]
 ```
 
-## seperator
+## separator
 By default, obtener tries syntax where the steps are separted by 
 `"."` or `"__"`.  If you'd like to restrict the syntax or use a custom separator:
 ```js
